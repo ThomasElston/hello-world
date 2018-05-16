@@ -1,7 +1,7 @@
 # hello-world
 In Class Github discussion
 
-#Random NUmber Generator
+#Random Number Generator
 from random import *
 line = ""
 while True:
